@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashsenior 
-- 👀 I’m interested in ... Computer science 
-- 🌱 I’m currently learning ... Django(python) framework
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Machine learning  
+- 🌱 I’m currently learning ... Data Science and machine learning
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ashutoshjunior@gmail.com
 
 <!---
