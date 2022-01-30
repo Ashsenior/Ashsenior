@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashsenior&label=Profile%20views&color=0e75b6&style=flat" alt="ashsenior" /> </p>
 
-- 🔭 I’m currently working on ** Dog breed prediction model using tensorflow **
+- 🔭 I’m currently working on **Dog breed prediction model using tensorflow**
 
 - 🌱 I’m currently learning **Machine learning | Data science | Web dev**
 
