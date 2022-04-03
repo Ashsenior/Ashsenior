@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashsenior](https://github.com/Ashsenior)
 
-- 💬 Ask me about **ML || Chess || Django**
+- 💬 Ask me about **ML || Chess || Django || Reactjs**
 
 - 📫 How to reach me **ashutoshjunior@gmail.com**
 
