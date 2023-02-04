@@ -1,5 +1,5 @@
 <h1 align="center">Hey 🤝, I'm Ashutosh Bisht</h1>
-<h3 align="center">MAIT'25 || ML Enthusiast || 1420 Chess.com</h3>
+<h3 align="center">MAIT'25 || ML Enthusiast || 1520 Chess.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashsenior&label=Profile%20views&color=0e75b6&style=flat" alt="ashsenior" /> </p>
 
