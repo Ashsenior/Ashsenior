@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashsenior&label=Profile%20views&color=0e75b6&style=flat" alt="ashsenior" /> </p>
 
-- 🔭 I’m currently working on [PredCo](predco.ai)
+- 🔭 I’m currently working on [PredCo](https://www.predco.ai/)
 
 - 💬 Ask me about **Any tech-stack !!**
 
